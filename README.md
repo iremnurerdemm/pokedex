@@ -1,2 +1,3 @@
 # pokedex
 
+pokedoxsirem.netlify.app
